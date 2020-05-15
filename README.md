@@ -1,8 +1,12 @@
 # Repository: VCBiofilm_diSPIM_1
-#### MATLAB codes for processing and analyzing diSPIM images of Vibrio cholerae biofilm.
-##### Boyang Qin, 2020, Princeton University, Bonnie Bassler Lab.
+##### Codes for processing, analyzing, and modeling diSPIM images of bacteria biofilm
+##### and data used for " paper "
+#####
+###### Boyang Qin, 2020, Bonnie Bassler Lab, Princeton University.
+###### Chenyi Fei, 2020, Bonnie Bassler Lab, Princeton University.
 
-#### Notes:
-##### Function_diSPIM contains functions for diSPIM image processing 
-##### Function_Utility contains utility functions cited 
+##### Notes:
+###### Folder 'code_diSPIM' contains codes for processing diSPIM images.
+###### Folder 'code_simulation' contains codes for modeling biofilms.
+###### Folder 'data' contains cell trajectory data for <i>Vibrio cholerae</i> biofilms
 
